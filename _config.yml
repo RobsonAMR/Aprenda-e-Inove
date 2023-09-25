@@ -1,14 +1,16 @@
 title: Edutech 
-author: Jario Swami
-  name: GitHub User
+author:
+  name: Jario Swami
   email: jariolog@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Jario é meu nome, minha doutrina pessoal inicia e termina no fogo, que é a consciência. Minha fé inicia e termina no Self, que é o atman. A Natureza é meu atanor.
-
-Estudei química, física e pedagogia formalmente na universidade (UnB), contudo assuntos como música, astronomia, botânica, artes, fotografia, magia, meditação, yoga, etc, foram acumulados autodidaticamente.
+  Jario é meu nome, minha doutrina pessoal inicia e termina no fogo, que é a consciência.
+  Minha fé inicia e termina no Self, que é o atman. A Natureza é meu atanor.
+  Estudei química, física e pedagogia formalmente na universidade (UnB), 
+  contudo assuntos como música, astronomia, botânica, artes, fotografia, magia, meditação, yoga, etc,
+  foram acumulados autodidaticamente.
 
 # Build settings
 
